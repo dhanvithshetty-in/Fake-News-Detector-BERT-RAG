@@ -1,6 +1,13 @@
 🛡️ Hybrid AI Fake News Detector (BERT + RAG)
 Developed by: Dhanvith Shetty | Internship: Festiva Moments | College: VCET
 
+## 🖥️ Application Demo
+
+![App Demo](assets/App%20demo.png)
+
+![App Demo 1](assets/App%20demo1.png)
+
+
 📌 Problem Statement
 Static NLP models like BERT are limited by their Training Data Cutoff. A model trained in 2017 cannot verify news about the 2026 T20 World Cup or current 2026 market crashes. This "Temporal Drift" leads to false negatives where the AI flags real, modern news as "Fake" simply because it hasn't seen the facts before.
 
